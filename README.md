@@ -1,15 +1,28 @@
 
 # Cloning PaytmMall Website
 Our Construct Week Project at Masai School.
-Here, I would like to share my experience of cloning website — PaytmMall.
+Here, I would like to share my experience of cloning website — PaytmMall.Online shopping with Paytm Mall is quick, convenient and trouble-free. You can shop for the desired product right from the comfort of your home and get them delivered straight to your doorstep.
+
+Browse Paytm Mall and get access to over 65 million products ranging from smartphones, tablets to laptops, sarees, kurtas & kurtis to t-shirts, sneakers, sport shoes to sandals, earrings, watches to fitness bands, chimneys, cookware to gas stoves, dairy products, baby products to makeup kits and many more..
 Github link :- https://github.com/sameerah2710/unit-3-project.git
 # Team Members:
-​Aritra De ​(Home page)
-​Himanshu Mishra (Login QR Page, Phone Page, Address Pop up)
-​Sameer Harankhedkar (Best Selling Smartphone Page)
-Apurva Bhakat ​(Single Product Page)
-Vishnu Mundkar (Cart Page, Payment Pop-up)
-Mohd Rihan Khan (My Order )
+
+<li>​Aritra De ​(Home page)</li>
+<li>​Himanshu Mishra (Login QR Page, Phone Page, Address Pop up)</li>
+<li>​Sameer Harankhedkar (Best Selling Smartphone Page)</li>
+<li>Apurva Bhakat ​(Single Product Page)</li>
+<li>Vishnu Mundkar (Cart Page, Payment Pop-up)</li>
+<li>Mohd Rihan Khan (My Order ) </li>
+
+# Technologies we used :
+<li>Javascript</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>Mongo Db(Single Product Page)</li>
+<li>Expres Js</li>
+<li>Node js </li>
+
+
 # Login Page :
 The login page show full functionality of page in which by giving your name or cellphone number you can login to website.
 
@@ -64,5 +77,6 @@ My Order Page shows all the order which you have ordered.
 # Acknowledgement:
 This Construct week went well with lots of learning and applying the concepts learned from Masai
 our project, our hearty thanks to our Masai mentors and IA’s for helping us get through this journey.
-# Deployed Link: 
-https://suspicious-wing-0660d2.netlify.app/
+# Blog and Deployed Link:
+
+Check the hosted website <a href="https://paytmmll-apurva.netlify.app/">here</a> and read our blog <a href="https://medium.com/@apurva.bkt/cloning-paytmmall-website-4cec6eff7b36">here</a>.
