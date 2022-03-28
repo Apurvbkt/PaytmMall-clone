@@ -22,6 +22,8 @@ Github link :- https://github.com/sameerah2710/unit-3-project.git
 <li>Expres Js</li>
 <li>Node js </li>
 
+# How it works -
+First you have to have to go to the signup page and create a new account. Then you will get an alert that signup successful. After the signup process is completed you have to login with the same details and it wil redirect you to the landing page. You can now go to the category page and navigate to add products to the cart. After that you can proceed to the cart page then after clicking on checkout button you will be redirected to the payment page there you can add your payment details and after clicking on pay now button, you will get an alert of successful payment.
 
 # Login Page :
 The login page show full functionality of page in which by giving your name or cellphone number you can login to website.
